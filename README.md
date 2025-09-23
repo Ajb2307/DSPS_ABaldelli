@@ -1,4 +1,4 @@
-# DSPS_FBianco
+# DSPS_ABaldelli
 
 - I decided to take this class because I am interested in research using data science and applied math.
 
