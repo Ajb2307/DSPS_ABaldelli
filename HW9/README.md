@@ -1,3 +1,13 @@
+## Improving old plot 
+ <img src="https://github.com/Ajb2307/DSPS_ABaldelli/blob/main/HW9/old_plot.png" width="500">
+
+ First, I changed the labels so that they were more understandable and larger fonts. I also changed the x variable to be on its normal scale (as previously it was logged) and changed the axis to be logged. I believe this makes what is being plotted more clear. Previously, this plot was a scatter plot to match the original plot, but this causes all the points to overlap one another, minimizing visibility, even with a small alpha. To remedy this, I changed the plot to use a dashed line to clearly depict each line with transparency to see each line clearly. The previous plot used various colors with no linear progression, as these lines do have a numerical progression to the M values, I changed the colors to follow the 'viridis' color map. For readability, I added ticks to the top and right of the graph as well.
+ 
+ <img src="https://github.com/Ajb2307/DSPS_ABaldelli/blob/main/HW9/new_plot.png" width="500">
+
+
+
+
 ## Good plot
  Each subplot clearly shows how different features change the wavelength of the model, labeling regions of particular interests. There is no ambiguity or distraction as to what is being observed in each plot, nor is there a distraction from the central point of the plot (how each parameter affects the model). I also think the annotations on the plot guide the observer in a way that is informative and without distracting from the data. One thing I would change in the linewidth to make it a bit bolder so it is easier to see.
  
